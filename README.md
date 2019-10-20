@@ -19,7 +19,7 @@ Run these command in Terminal or local bash
  
   `pip install -r botserver/requirements.txt`
 
-  --to intall all the package/dependency
+  --to install all the package/dependency
 
   --under folder 'botserver', run 
   
